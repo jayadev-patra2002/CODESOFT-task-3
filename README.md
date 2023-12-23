@@ -1,4 +1,4 @@
-# CODESOFT-task-3
+# CODSOFT-task-3
 <h2>Calculator Using HTML,CSS & Javascript</h2>
 <br>
 
